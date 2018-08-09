@@ -13,7 +13,7 @@
 ### 配置代理池
 
 ```
-cd proxypool
+cd pyproxypool
 ```
 
 进入proxypool目录，修改settings.py文件
@@ -29,7 +29,7 @@ pip3 install -r requirements.txt
 #### 打开代理池和API
 
 ```
-python3 run.py
+python3 proxypoolrun.py
 ```
 
 ## 获取代理
